@@ -117,7 +117,7 @@ With 56% to 89% of workers in the informal sector depending on the country, form
 
 ## 👤 About the Author
 
-**Patrick Alloumon Gbeho**
+** Gbeho Patrick Alloumon**
 Webmaster & Junior Data Analyst — Cotonou, Benin 🇧🇯
 
 I specialize in building data dashboards and web solutions for organizations across West Africa — combining local context expertise with international data standards.
@@ -132,7 +132,3 @@ I specialize in building data dashboards and web solutions for organizations acr
 
 This project is open source under the [MIT License](./LICENSE).
 Feel free to fork, adapt, and build upon this work — credit appreciated.
-
----
-
-*Built with 🌍 from Cotonou, Benin*
